@@ -1,4 +1,4 @@
-# ENM375 Midterm Project (Spring 2020)
+# Information Seeking Behavior: Networks
 What is curiosity? Generally, we define curiosity as an intrinsically motivated act of information seeking, despite no guarantee of any reward at the end of the quest. So a curious person may browse the library, reading only a few lines from each book in computer science, despite not having any immediate use for this newly acquired knowledge. 
 
 But does curiosity require one to seek explicitly many small bits of information? What about anotherindividual who enters a library and for no immediate gain reads only three books, all specifically about computer science algorithms, but reads each of these three books cover to cover? 
